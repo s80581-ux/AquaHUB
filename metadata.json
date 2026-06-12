@@ -1,0 +1,6 @@
+{
+  "name": "AquaHub",
+  "description": "A modern mobile and tablet platform for fish farming, trading, and profit tracking, empowering B40 communities to generate sustainable income through aquaculture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
